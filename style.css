@@ -1,0 +1,21 @@
+p {
+   padding-left: 10pt;
+}
+
+h3 {
+   padding-left: 16pt;
+}
+
+table {
+   border: 1px solid grey;   
+}
+
+th {
+   border: 1px solid grey;
+}
+
+td {
+   border: 1px solid grey;
+   padding-left: 4pt;
+   padding-right: 4pt;
+}
